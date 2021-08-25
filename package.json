@@ -42,7 +42,7 @@
   "dependencies": {
     "expo-permissions": "~9.3.0",
     "unimodules-permissions-interface": "~6.2.0",
-    "@unimodules/core": "6.0.0",
+    "@unimodules/core": "5.3.0",
     "uuid": "7.0.2"
   },
   "devDependencies": {
